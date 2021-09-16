@@ -1,0 +1,45 @@
+XXE
+a = 1;
+b = 2;
+
+
+& = view content
+
+* = view memory address
+
+<!ENTITY abc SYSTEM "http://xyz.com/abc.svg"     - custom added
+
+<username>&abc;</username>
+<password>password</password>
+<submit>LogIn</submit>
+
+
+*abc = 0xaaaaaaaa
+
+a = 1;
+b = 2;
+
+
+& = view content
+
+* = view memory address
+
+<!ENTITY abc SYSTEM file:///etc/passwd     - custom added
+
+<username>&abc;</username>
+<password>password</password>
+<submit>LogIn</submit>
+
+
+*abc = 0xaaaaaaaa
+
+bol
+
+csp allow us to monitors how one can execute/calls external js files to the current application.
+
+bol
+bol
+reflected & stored are on server dom is on client
+
+error messages mostly on 
+any type of system log which are available on web framework or user or any type os path location, or any sensisitive details.

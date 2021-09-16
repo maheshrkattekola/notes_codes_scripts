@@ -1,0 +1,48 @@
+interview question 
+
+}7n"2EY:cL:?o)8GzjN3SC_bn~5RTsKJ
+
+1) Explain CSP & X Frame & why they are used
+	
+
+2) Same origin policy & how to exploit it
+
+3) CORS & how to exploit it
+
+4) password in clear text though website is running on HTTPS
+
+5) XSS
+	Reflected
+	Stored 
+	DOM
+	Mouse Over
+	On error
+
+6) Bypass XSS Filter
+
+7) CSRF
+	GET
+	POST
+	JSON
+
+8) SSRF & what if a website wants to accept several urls
+
+9) LFI & RFI
+
+10) XXE or XML injection
+11) Xpath injection
+12) HTTP smuggling
+13) command injection
+14) Preflight Request
+
+
+1) XSS ( Reflected & Stored)
+2) CSRF
+3) LFI
+4) RFI
+5) Same origin policy
+6) CSP
+7) Clickjacking
+8) HTTP Security headers
+9) SSRF
+10) Latest vulnerability found during network pentesting

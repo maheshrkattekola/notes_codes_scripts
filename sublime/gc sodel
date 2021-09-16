@@ -1,0 +1,46 @@
+https://gc.sodelsolutions.com									 -- QA
+
+for QA: 
+virtual card login: 7777777777, 8888888888 otp 111111
+physical card: card no.: 87519972009464
+kit no: 110000464
+expiry date: 07/26
+pin: 1010
+
+<script>alert("hacked")</script>
+
+
+
+https://uat.giftcard.yespayhub.in/login
+
+
+for UAT:
+virtual card login: 5555555555
+
+card no: 555983100	000166
+kit no: 194400000166
+expiry: 02/25
+pin no: 1166
+
+card: 8751997200 009458
+kit: 110000458
+expiry: 07/26
+pin: 4458
+
+
+
+
+
+
+virtual card login: 7777777777, 8888888888
+physical card: card no.: 87519972 009464
+kit no: 110000464
+expiry date: 07/26
+pin: 1010
+
+
+Physical card UAT: 
+Card: 009453
+Kit: 110000453
+Expiry: 07/26
+Pin: 4453

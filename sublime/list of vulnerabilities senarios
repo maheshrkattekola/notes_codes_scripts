@@ -1,0 +1,33 @@
+list of vulnerabilities senarios
+
+XSS & different senarios
+xss on mouse over = 
+csp bypass
+same origin policy & how to exploit
+ssrf & what if the website wants url to be asked from the user
+csrf get, post method
+csrf on json 
+dom xss & how to exploit
+RCE & LFI 
+CORS exploit
+SQL all
+
+session management 
+	CORS
+	privilege escalation
+	Same origin policy
+	IDOR
+
+Data validation
+	XXE or XML injection
+	Xpath injection
+	HTTP smuggling
+	command injection
+
+
+expect-ct = certificate transperancy 
+
+
+
+
+

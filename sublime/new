@@ -1,0 +1,22 @@
+E:\Installed~Softwares\rms>exit
+PS E:\Installed~Softwares\rms> Get-ExecutionPolicy -List
+
+        Scope ExecutionPolicy
+        ----- ---------------
+MachinePolicy       Undefined
+   UserPolicy       Undefined
+      Process       Undefined
+  CurrentUser       Undefined
+ LocalMachine       Undefined
+
+
+PS E:\Installed~Softwares\rms> Set-ExecutionPolicy -ExecutionPolicy UnRestricted -Scope CurrentUser
+PS E:\Installed~Softwares\rms> Get-ExecutionPolicy -List
+
+        Scope ExecutionPolicy
+        ----- ---------------
+MachinePolicy       Undefined
+   UserPolicy       Undefined
+      Process       Undefined
+  CurrentUser    Unrestricted
+ LocalMachine       Undefined

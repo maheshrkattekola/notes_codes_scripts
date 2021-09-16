@@ -1,0 +1,46 @@
+QA details
+Admin Portal - https://ypp.sodelsolutions.com
+Creds – shital+3@sodelsolutions.com / qasima@yesbank.in / admin@localhost – admin
+
+YPHUb / Partner Portal - https://yphub.sodelsolutions.com
+Creds –       partner: gaurav.p@sodelsolutions.com – admin
+partner user : quasimachogle333@gmail.com – admin
+
+Metabase - https://yppreports.sodelsolutions.com/ - sodel email id
+Logs - https://ypplogs.sodelsolutions.com/app/logtrail#/?q=*&h=kyc&t=Now&i=logs-*&_g=()
+  
+
+UAT details:
+Admin Portal  - 			https://uat.yespayassist.in/
+Creds – 					ss_shital2@yesbank.in – admin
+
+YPHUb /Partner Portal - 	https://uat.yespayhub.in/
+Creds – Partners: 			ss@gmail.com, shital@sodesolutions.com – admin
+partner user: 				quasimachogle@gmail.com admin
+
+Metabase - 					https://uat.reports.yespayassist.in/ - Rahul Sir  email id
+Logs - 						https://uat.logs.yespayhub.in/app/kibana
+
+https://uat.logs.yespayassist.in/
+
+mahesh.k@sodelsolutions.com ,  mahesh.kattekola@aujas.com      PASS: admin. 
+
+
+Admin Portal  - 			https://uat.yespayassist.in/
+Creds – 					ss_shital2@yesbank.in – admin
+
+
+https://uat.yespayassist.in/		mahesh.kattekola@aujas.com	admin
+
+user: kasim.khan@yesbank.in (active)
+
+user: jivan@yesbank.in  (Inactive)
+
+user: shital@yesbank.in (Inactive)
+
+user: qasima@yesbank.in  (active)
+pswd: kasim@123
+amit.kothawade1@yesbank.in admin
+
+app_name:ypp_api
+C:\ProgramData\chocolatey\lib\terraform

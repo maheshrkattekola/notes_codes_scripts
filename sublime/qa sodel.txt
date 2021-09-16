@@ -1,0 +1,41 @@
+QA details:
+
+Admin Portal - https://ypp.sodelsolutions.com
+
+Creds – shital+3@sodelsolutions.com / qasima@yesbank.in / admin@localhost – admin
+
+ 
+
+YPHUb / Partner Portal - https://yphub.sodelsolutions.com
+
+Creds –       partner: gaurav.p@sodelsolutions.com – admin
+
+partner user : quasimachogle333@gmail.com – admin
+
+ 
+
+Metabase - https://yppreports.sodelsolutions.com/ - sodel email id
+
+Logs - https://ypplogs.sodelsolutions.com/app/logtrail#/?q=*&h=kyc&t=Now&i=logs-*&_g=()
+
+  
+
+UAT details:
+
+Admin Portal  - https://uat.yespayassist.in/
+
+Creds – ss_shital2@yesbank.in – admin
+
+ 
+
+YPHUb /Partner Portal - https://uat.yespayhub.in/
+
+Creds – Partners: s@gmail.com, shital@sodesolutions.com – admin
+
+              partner user: quasimachogle@gmail.com admin
+
+ 
+
+Metabase - https://uat.reports.yespayassist.in/ - Rahul Sir  email id
+
+Logs - https://uat.logs.yespayhub.in/app/kibana
