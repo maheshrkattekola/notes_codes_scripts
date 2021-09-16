@@ -3,7 +3,7 @@
 # Every function or method is created by the keyword def 
 # Following the keyword def is the name of the method
 def main():
-
+print("hello world")
 
 	# Creates an empty list
 	tmp_list = list()
