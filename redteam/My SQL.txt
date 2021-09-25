@@ -1,0 +1,15 @@
+my sql = root--- port = 3306
+microsoft sql = sa --- port = 1433
+
+
+Instance SQL express
+sa = Maheshrk@1
+SQL
+Alice (db owner) = Maheshrk@2
+Bob (local)= Maheshrk@3
+
+
+
+
+Instance name = customer
+password = Password@123
