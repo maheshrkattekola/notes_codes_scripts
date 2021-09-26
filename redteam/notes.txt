@@ -1,0 +1,1 @@
+power install = wget https://raw.githubusercontent.com/NetSPI/PowerUpSQL/master/PowerUpSQL.ps1 -o PowerUpSQL.ps1
