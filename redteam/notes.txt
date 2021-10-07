@@ -11,3 +11,6 @@ xss stored attack
 crash the server making it inaccessinble 
 intigrity = taking control of the system
 confidentialy may get comprise
+
+
+
